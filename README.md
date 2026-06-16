@@ -1,0 +1,12 @@
+# MIT 파이썬 프로그래밍 학습 기록
+
+MIT 강의를 수강하며 개념을 정리하고 코드를 실습하는 저장소입니다.
+
+## 📅 학습 내용
+* **1강: 변수와 값 교환 (Variables & Swapping)**
+  * 주피터 노트북: `1_variables_and_swapping.ipynb`
+  * 핵심 개념: 파이썬 코드 실행 순서 및 임시 변수(`temp`)를 활용한 스와핑 기법 학습
+
+## 🛠️ 개발 환경
+* Language: Python 3.14
+* IDE: PyCharm / Jupyter Notebook
